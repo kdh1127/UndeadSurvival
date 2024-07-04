@@ -23,7 +23,7 @@ public class Spawner : MonoBehaviour
         {
             timer = 0;
             Spawn();
-        }
+        } 
     }
 
     void Spawn()
